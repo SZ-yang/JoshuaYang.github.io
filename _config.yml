@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Shizhao (Joshua) Yang"
 title_separator          : "-"
 name                     : &name "Shizhao (Joshua) Yang"
-description              : &description "Ph.D. student in Quantitative Biomedical Science at Dartmouth College, working on statistical and machine learning methods for computational genomics."
+description              : &description "Ph.D. student in Quantitative Biomedical Science at Dartmouth College"
 url                      : https://sz-yang.github.io
 baseurl                  : "/JoshuaYang.github.io"
 repository               : "sz-yang/JoshuaYang.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Shizhao (Joshua) Yang"
   pronouns         : # example: "she/her"
-  bio              : "Ph.D. student in Quantitative Biomedical Science at Dartmouth College. Statistical & ML methods for computational genomics."
+  bio              : "Ph.D. student in Quantitative Biomedical Science at Dartmouth College"
   location         : "Hanover, NH"
   employer         : "Dartmouth College"
   uri              : # URL
@@ -34,10 +34,10 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=oyYzc_0AAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0001-9465-9820"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # URL

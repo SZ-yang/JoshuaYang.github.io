@@ -4,7 +4,7 @@ collection: talks
 type: "Poster"
 permalink: /talks/2024-09-02-mics-poster
 venue: "Children's Lives: International Conference on Children and Their Families Using the Multiple Indicator Cluster Surveys (MICS)"
-date: 2024-09-01
+date: 2024-09
 location: "Bristol, United Kingdom"
 ---
 

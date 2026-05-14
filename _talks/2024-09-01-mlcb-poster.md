@@ -4,7 +4,7 @@ collection: talks
 type: "Poster"
 permalink: /talks/2024-09-01-mlcb-poster
 venue: "Machine Learning in Computational Biology (MLCB) Conference"
-date: 2024-09
+date: 2024-09-01
 location: "Seattle, WA, USA"
 ---
 
